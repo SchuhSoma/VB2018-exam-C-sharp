@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\bin\Debug\SchuhS_VB2018.exe.config
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\bin\Debug\SchuhS_VB2018.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\bin\Debug\SchuhS_VB2018.pdb
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\obj\Debug\SchuhS_VB2018.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\obj\Debug\SchuhS_VB2018.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\obj\Debug\SchuhS_VB2018.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_VB2018\SchuhS_VB2018\obj\Debug\SchuhS_VB2018.pdb
